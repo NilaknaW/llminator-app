@@ -1,16 +1,12 @@
-# llminator
+# RIGHTVOTE
 
-A new Flutter project.
+a web application built for the recent presidential election, featuring:
 
-## Getting Started
+- ✅ Win Predictor – Forecasts election outcomes with our AI model
+- 📊 Manifesto Comparator – Allows voters to compare candidates' policies
+- 🤖 Election Chatbot – Provides real-time election-related information
 
-This project is a starting point for a Flutter application.
+I contributed mainly to developing the Flutter-based web app with real-time chatbot and prediction models, gaining valuable hands-on experience in building AI solutions with a strong focus on usability and functionality.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Final Reposiroty: [https://github.com/NaveenSanjaya/098_LLMinators](https://github.com/NaveenSanjaya/098_LLMinators)
+* Contributors: [Naveen Basnayake](https://github.com/NaveenSanjaya), [Nithira Jayarathne](https://github.com/Nithira17),  [Nadha Irshad](https://github.com/NadhaIrshad), and [Muftee Mysan](https://github.com/Muftee-Mysan).
